@@ -1,3 +1,5 @@
+Log In - Sign Up (Web Developement Project)
+
 I successfully completed my inaugural web project as part of the web development internship at "Nexus Private Limited." 
 This project features a straightforward log-in and sign-up page with fundamental validation mechanisms. 
 I'm new to web development, but I've got some experience with Java projects. It helped me figure out the behind-the-scenes stuff for this simple log-in and sign-up page. 
